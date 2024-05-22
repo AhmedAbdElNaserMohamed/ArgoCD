@@ -1,6 +1,7 @@
+
 # DevOps Project README
 
-![Project Architecture](./project_workflow.png)
+![Project Architecture](./project_map.png)
 
 This project demonstrates the setup and deployment of a CI/CD pipeline using Jenkins, SonarQube, and Argo CD on AWS infrastructure. The pipeline includes code quality checks, Docker image creation, and deployment of a Java Maven application to an EKS cluster.
 
@@ -116,3 +117,5 @@ Follow the pipeline steps to ensure the application is built, tested, and deploy
 ## Conclusion
 
 This README provides a comprehensive guide to setting up a CI/CD pipeline using Jenkins, SonarQube, and Argo CD on AWS infrastructure. The pipeline ensures code quality, automates Docker image creation, and manages the deployment of a Java Maven application on an EKS cluster.
+
+For any issues or further assistance, please refer to the respective documentation of Jenkins, SonarQube, Docker, and Argo CD.
